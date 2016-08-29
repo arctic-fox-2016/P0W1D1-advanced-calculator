@@ -33,7 +33,7 @@ class Calculator {
   div (d){
     this.x /= d;
     return this
-  }
+  } 
 
   pangkat (f){
     this.x = Math.pow(this.x,f);
