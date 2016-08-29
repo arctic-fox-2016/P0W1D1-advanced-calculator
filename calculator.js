@@ -1,14 +1,5 @@
 "use strict";
 
-/** note : you can use several features from ecmascript, such as:
-* - Classes
-* - Default Parameters
-* - Destructured Assignment
-* - Template Literals
-* - Method Chaining
-*/
-"use strict";
-
 const PI = 3.14;
 
 export class Calculator {
